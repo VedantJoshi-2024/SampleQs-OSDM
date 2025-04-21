@@ -1,5 +1,7 @@
 The following prompt was used to create such questions:
 
-Generate me 50-60 quiz questions in .md file format, with some single-choice, some multiple choice questions, some blank filling questions, some theorotical questions and some small coding implementation questions. Mention the correct answers as well at the end of each question, along with a hint to solve if the difficulty level seems high. The question should focus on concept understanding, efficiency in solving such questions, and all topics coverage.
+Generate me 50-60 quiz questions in .md file format, with some single-choice, some multiple-choice questions, some blank filling questions, some theoretical 
+questions and some small coding implementation questions. Mention the correct answers as well at the end of each question, along with a hint to solve if the 
+difficulty level seems high. The question should focus on concept understanding, efficiency in solving such questions, and all topics coverage.
 
-Other settings, such as model selection or other preferences were set to default.
+Other settings, such as model selection or other preferences, were set to default.
